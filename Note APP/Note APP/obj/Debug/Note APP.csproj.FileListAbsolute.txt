@@ -1,0 +1,11 @@
+D:\COLLECTIONSSS\PS TEST\Note APP\Note APP\bin\Debug\Note APP.exe.config
+D:\COLLECTIONSSS\PS TEST\Note APP\Note APP\bin\Debug\Note APP.exe
+D:\COLLECTIONSSS\PS TEST\Note APP\Note APP\bin\Debug\Note APP.pdb
+D:\COLLECTIONSSS\PS TEST\Note APP\Note APP\obj\Debug\Note APP.csproj.AssemblyReference.cache
+D:\COLLECTIONSSS\PS TEST\Note APP\Note APP\obj\Debug\Note APP.csproj.SuggestedBindingRedirects.cache
+D:\COLLECTIONSSS\PS TEST\Note APP\Note APP\obj\Debug\Note_APP.Properties.Resources.resources
+D:\COLLECTIONSSS\PS TEST\Note APP\Note APP\obj\Debug\Note APP.csproj.GenerateResource.cache
+D:\COLLECTIONSSS\PS TEST\Note APP\Note APP\obj\Debug\Note APP.csproj.CoreCompileInputs.cache
+D:\COLLECTIONSSS\PS TEST\Note APP\Note APP\obj\Debug\Note APP.exe
+D:\COLLECTIONSSS\PS TEST\Note APP\Note APP\obj\Debug\Note APP.pdb
+D:\COLLECTIONSSS\PS TEST\Note APP\Note APP\obj\Debug\Note_APP.Note.resources
